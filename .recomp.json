@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Boots to the save-file menu and name entry. 60 fps on both machines. The game's code modules (rel/rel*.bin) run as native code. Tested on Windows 11 (RTX 3070 Ti) and on a Linux mini PC (Ryzen 3 4350GE, Vega 6) with scripted inputs; nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays the opening story scenes in the game's own engine at 60 fps, no graphics errors seen. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
